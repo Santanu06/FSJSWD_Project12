@@ -1,4 +1,4 @@
-# Project 10
+# Project 12
 
 ## Santanu Kumar Sahu
 
@@ -8,4 +8,4 @@ Using css flex box and postion i have created this project.While doing this proj
 ![badge](https://img.shields.io/badge/Time%20Taken-4%20hr%2050%20min-brightgreen)
 
 ### Live Link of this Project
-[ProjectLink](https://fsjswdproject11.netlify.app)
+[ProjectLink](https://fsjswdproject12.netlify.app)
